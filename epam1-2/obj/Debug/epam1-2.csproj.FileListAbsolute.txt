@@ -1,0 +1,24 @@
+c:\users\oag\documents\visual studio 2012\Projects\epam1-2\epam1-2\bin\Debug\epam1-2.exe.config
+c:\users\oag\documents\visual studio 2012\Projects\epam1-2\epam1-2\bin\Debug\epam1-2.exe
+c:\users\oag\documents\visual studio 2012\Projects\epam1-2\epam1-2\bin\Debug\epam1-2.pdb
+c:\users\oag\documents\visual studio 2012\Projects\epam1-2\epam1-2\obj\Debug\epam1-2.csprojResolveAssemblyReference.cache
+c:\users\oag\documents\visual studio 2012\Projects\epam1-2\epam1-2\obj\Debug\epam1-2.exe
+c:\users\oag\documents\visual studio 2012\Projects\epam1-2\epam1-2\obj\Debug\epam1-2.pdb
+C:\Users\oag\Desktop\epam1-2\epam1-2\bin\Debug\epam1-2.exe.config
+C:\Users\oag\Desktop\epam1-2\epam1-2\obj\Debug\epam1-2.exe
+C:\Users\oag\Desktop\epam1-2\epam1-2\obj\Debug\epam1-2.pdb
+C:\Users\oag\Desktop\epam1-2\epam1-2\bin\Debug\epam1-2.exe
+C:\Users\oag\Desktop\epam1-2\epam1-2\bin\Debug\epam1-2.pdb
+C:\Users\oag\Desktop\epam1-2\epam1-2\obj\Debug\epam1-2.csprojResolveAssemblyReference.cache
+C:\Users\oag\Desktop\epam-task-2\epam1-2\bin\Debug\epam1-2.exe.config
+C:\Users\oag\Desktop\epam-task-2\epam1-2\obj\Debug\epam1-2.exe
+C:\Users\oag\Desktop\epam-task-2\epam1-2\obj\Debug\epam1-2.pdb
+C:\Users\oag\Desktop\epam-task-2\epam1-2\bin\Debug\epam1-2.exe
+C:\Users\oag\Desktop\epam-task-2\epam1-2\bin\Debug\epam1-2.pdb
+C:\Users\oag\Desktop\epam-task-2\epam1-2\obj\Debug\epam1-2.csprojResolveAssemblyReference.cache
+d:\epam-task-2\epam1-2\bin\Debug\epam1-2.exe.config
+d:\epam-task-2\epam1-2\obj\Debug\epam1-2.exe
+d:\epam-task-2\epam1-2\obj\Debug\epam1-2.pdb
+d:\epam-task-2\epam1-2\bin\Debug\epam1-2.exe
+d:\epam-task-2\epam1-2\bin\Debug\epam1-2.pdb
+d:\epam-task-2\epam1-2\obj\Debug\epam1-2.csprojResolveAssemblyReference.cache
